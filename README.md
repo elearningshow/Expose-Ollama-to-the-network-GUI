@@ -2,7 +2,7 @@
 
 Where to enable the Expose Ollama to the network setting (Make sure to enable this feature)
 <div align="center">
-  <img alt="Expose-Ollama-to-the-network-GUI" height="200px" src="https://github.com/elearningshow/Expose-Ollama-to-the-network-GUI/blob/main/ollama_on_lan.jpg">
+  <img alt="Expose-Ollama-to-the-network-GUI" height="200px" src="https://github.com/elearningshow/Expose-Ollama-to-the-network-GUI/blob/main/port_forward_main_pc.jpg">
 </div>
 
 What the Ollama GUI will look like to those on your LAN or those outside local lan with router configuration
@@ -16,6 +16,7 @@ What to do in order to make the server accessible via the internet not just the 
 </div>
 
 and then run the startserver-ask.bat it will open the GUI and now everyone on your LAN can enjoy a Ollama GUI.
+
 
 
 
