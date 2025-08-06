@@ -3,13 +3,14 @@
 
 Where to enable the Expose Ollama to the network setting
 <div align="center">
-  <img alt="Expose-Ollama-to-the-network-GUI" height="200px" src="https://github.com/elearningshow/Expose-Ollama-to-the-network-GUI/blob/main/ollama_gui_lan.jpg">
+  <img alt="Expose-Ollama-to-the-network-GUI" height="200px" src="https://github.com/elearningshow/Expose-Ollama-to-the-network-GUI/blob/main/ollama_on_lan.jpg">
 </div>
 
 What the Ollama GUI will look like to those on your LAN or those outside local lan with router configuration
 <div align="center">
   <img alt="Expose-Ollama-to-the-network-GUI" height="200px" src="https://github.com/elearningshow/Expose-Ollama-to-the-network-GUI/blob/main/ollama_gui_lan.jpg">
 </div>
+
 
 
 
